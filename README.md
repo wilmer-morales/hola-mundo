@@ -1,2 +1,3 @@
 # hola-mundo
-Estoy iniciando en github, para ello creare un 'hola mundo'
+Estoy iniciando en github, para ello creare un 'hola mundo'.
+Asi que vayamos con todo...
